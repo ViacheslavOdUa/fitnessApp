@@ -1,0 +1,25 @@
+.quickRecipes{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  div{
+
+    margin: 20px 0 ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+
+  }
+}
+.recipeCard{
+  img{
+    width: 300px;
+  }
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}

@@ -1,0 +1,22 @@
+.main{
+  padding-top: 70px;
+  width:90%;
+  overflow: hidden;
+
+}
+.wrap{
+  padding-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.text{
+  margin-bottom: 85px;
+
+  .h2{
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+  }
+}

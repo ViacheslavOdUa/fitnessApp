@@ -1,0 +1,52 @@
+.mybutton{
+  display: flex;
+  text-align: center;
+  margin-left: 20px;
+  color: #fff;
+  background: #8559b6;
+  font-size: 14px;
+  border-radius: 20px;
+  text-transform: capitalize;
+
+}
+.block{
+
+  display: flex;
+ justify-content: center;
+}
+.info{
+
+  color: #3b3636;
+  font-weight:bold;
+  font-size: 24px;
+  padding:10px;
+  text-transform:capitalize;
+}
+.exercise-card{
+  width: 400px;
+  height: 445px;
+
+  background: #fff;
+
+  text-decoration: none;
+
+  border: 1px solid #d9b3ef;
+  border-radius: 20px;
+
+  padding-bottom: 10px;
+  transform: scale(1, 1);
+
+  transition: 0.3s all ease-in-out;
+
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  align-items: center;
+}
+.exercise-card img {
+  height: 300px;
+}
+
+.exercise-card:hover{
+  transform: scale(1.1, 1.1);
+}
