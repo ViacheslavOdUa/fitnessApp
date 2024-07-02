@@ -41,11 +41,11 @@ const ExerciseDetail = () => {
   if (!exerciseDetail) return <div>No Data</div>;
   // якщо немає ніяких даних про вправу - виводить ,, немає даних ,,
 
-  //<ExerciseVideos exerciseVideos={exerciseVideos} name={exerciseDetail.name} /> //відео з ютуб
+
   return (
     <Box sx={{ mt: { lg: '96px', xs: '60px' } }}>
       <Detail exerciseDetail={exerciseDetail} />
-
+      <ExerciseVideos exerciseVideos={exerciseVideos} name={exerciseDetail.name} />
       <SimilarExercises targetMuscleExercises={targetMuscleExercises} equipmentExercises={equipmentExercises} />
     </Box>
   );
