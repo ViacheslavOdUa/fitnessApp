@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/fitnessApp/static/css/main.280bd720.css",
+    "main.js": "/fitnessApp/static/js/main.12011daa.js",
+    "static/js/679.2496954e.chunk.js": "/fitnessApp/static/js/679.2496954e.chunk.js",
+    "static/media/man-doing-workout-at-gym-free-vector.jpg": "/fitnessApp/static/media/man-doing-workout-at-gym-free-vector.4e71e1890dc35ae9f876.jpg",
+    "static/media/free-icon-sugar-4905974.png": "/fitnessApp/static/media/free-icon-sugar-4905974.78f4737f01dc50017e83.png",
+    "static/media/free-icon-kcal-3525308.png": "/fitnessApp/static/media/free-icon-kcal-3525308.6a0e064ebe248e4489a3.png",
+    "static/media/free-icon-fat-1951553.png": "/fitnessApp/static/media/free-icon-fat-1951553.3e13919ec4fc6b0b8fda.png",
+    "static/media/free-icon-proteins-780118.png": "/fitnessApp/static/media/free-icon-proteins-780118.d3d69d38654083ab91b5.png",
+    "index.html": "/fitnessApp/index.html",
+    "main.280bd720.css.map": "/fitnessApp/static/css/main.280bd720.css.map",
+    "main.12011daa.js.map": "/fitnessApp/static/js/main.12011daa.js.map",
+    "679.2496954e.chunk.js.map": "/fitnessApp/static/js/679.2496954e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.280bd720.css",
+    "static/js/main.12011daa.js"
+  ]
+}
